@@ -1,0 +1,21 @@
+.header{
+    background: var(--backgroundGradient);
+}
+
+.header_logo{
+    color: var(--white);
+}
+
+.Header_navLink{
+    color: var(--white);
+}
+
+
+.header_highlight{
+    color: var(--accentYellow);
+}
+
+.Header_title,
+.Heder_subTitle{
+    color: var(--white);
+}

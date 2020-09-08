@@ -1,0 +1,20 @@
+.Main_work{
+    background: var(--greyBackground);
+}
+
+
+.Work_title{
+    color: var(--accentYellow);
+}
+
+.Work_subTitle{
+    color: var(--accentBlue);
+}
+
+.Work_projectTitle{
+    color: var(--accentBlue);
+}
+
+.Work_ProjectInfo{
+    color: var(--blueOpacity);
+}

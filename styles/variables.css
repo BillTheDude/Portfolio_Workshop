@@ -1,0 +1,9 @@
+:root{
+    --accentBlue: #182141;
+    --accentYellow: #ffbf00;
+    --greyBackground: #F8F8F8;
+    --white:#ffffff;
+    --textOpacity: rgba(24,33,65,0.5);
+    --backgroundGradient: linear-gradient(122deg, rgba(24,33,65,.60) 0%, rgba(24,33,65,.60) 100%);
+    
+}
