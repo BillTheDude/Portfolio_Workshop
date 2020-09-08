@@ -1,5 +1,10 @@
+.Footer{
+    background: var(--greyBackground);
+}
+
 .footer_copyright{
     color: var(--accentYellow);
+    font-size: 2rem;
 }
 
 .Footer_socialLink{

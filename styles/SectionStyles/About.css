@@ -1,12 +1,18 @@
 .About_title{
     color: var(--accentYellow);
+    text-transform: uppercase;
+    font-weight: 700;
+    font-size: 1.5rem;
 }
 
 .About_subtitle{
     color: var(--accentBlue);
+    font-size: 3.2rem;
 }
 
 
 .About_bio{
     color: var(--blueOpacity);
+    font-size: 1.5rem;
+    line-height: 1.4;
 }
